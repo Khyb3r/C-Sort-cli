@@ -37,7 +37,7 @@ int main(int argc, char **argv) {
     qsort(buffer, bytesRead, sizeof(unsigned char), compare);
 
     for (int i = 0; i < bytesRead; i++) {
-        printf("%u", buffer[i]);
+        printf("%u\n", buffer[i]);
     }
     printf("\n");
     free(buffer);
