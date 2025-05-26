@@ -1,0 +1,3 @@
+/Users/khyber/Documents/ostep-projects/sort-textbased-and-binary/sort-binary/cmake-build-debug/CMakeFiles/sort_binary.dir
+/Users/khyber/Documents/ostep-projects/sort-textbased-and-binary/sort-binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khyber/Documents/ostep-projects/sort-textbased-and-binary/sort-binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
